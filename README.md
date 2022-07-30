@@ -74,29 +74,29 @@ In this process we have used Python programming Language.
 
 **Raw Data**
 
-![App Screenshot](https://raw.githubusercontent.com/SamratDuttaOfficial/DelhiPollutionLSTM/master/raw_data.png)
+![App Screenshot](https://raw.githubusercontent.com/SamratDuttaOfficial/DelhiPollutionLSTM/master/figures/raw_data.png)
 
 **After Smoothening**
-![App Screenshot](https://raw.githubusercontent.com/SamratDuttaOfficial/DelhiPollutionLSTM/master/after_smoothening.png)
+![App Screenshot](https://raw.githubusercontent.com/SamratDuttaOfficial/DelhiPollutionLSTM/master/figures/after_smoothening.png)
 
 ## Real Value vs  Our Predicted Value
 
 **PM2.5**
 
-![App Screenshot](https://raw.githubusercontent.com/SamratDuttaOfficial/DelhiPollutionLSTM/master/real_vs_pred_pm_2.5.png)
+![App Screenshot](https://raw.githubusercontent.com/SamratDuttaOfficial/DelhiPollutionLSTM/master/figures/real_vs_pred_pm_2.5.png)
 
 **PM10**
-![App Screenshot](https://raw.githubusercontent.com/SamratDuttaOfficial/DelhiPollutionLSTM/master/real_vs_pred_pm_10.png)
+![App Screenshot](https://raw.githubusercontent.com/SamratDuttaOfficial/DelhiPollutionLSTM/master/figures/real_vs_pred_pm_10.png)
 
 ## Forecasting future using The Model
 
 **PM2.5**
 
-![App Screenshot](https://raw.githubusercontent.com/SamratDuttaOfficial/DelhiPollutionLSTM/master/future_forecast_pm_2.5.png)
+![App Screenshot](https://raw.githubusercontent.com/SamratDuttaOfficial/DelhiPollutionLSTM/master/figures/future_forecast_pm_2.5.png)
 
 **PM10**
 
-![App Screenshot](https://raw.githubusercontent.com/SamratDuttaOfficial/DelhiPollutionLSTM/master/future_forecast_pm_10.png)
+![App Screenshot](https://raw.githubusercontent.com/SamratDuttaOfficial/DelhiPollutionLSTM/master/figures/future_forecast_pm_10.png)
 
 ## 🚀 GitHub
 Please visit the Github repository to download and see this project.
